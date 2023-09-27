@@ -48,7 +48,7 @@ a {
     text-decoration: underline dotted; 
 }
 
-/* a:hover,  */
+a:hover, 
 a:active {
     color: #d4b44c;
 }
