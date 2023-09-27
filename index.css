@@ -48,7 +48,7 @@ a {
     text-decoration: underline dotted; 
 }
 
-a:hover, 
+/* a:hover,  */
 a:active {
     color: #d4b44c;
 }
@@ -79,7 +79,7 @@ a:active {
     background: whitesmoke;
 }
 
-.btn:hover, 
+/* .btn:hover,  */
 .btn:active {
     color: #2b238a;
     background-color: #f3e885;
@@ -211,5 +211,16 @@ ul {
     
     p {
         font-size: 1.125rem;
+    }
+
+    a:hover, 
+    a:active {
+        color: #d4b44c;
+    }
+
+    .btn:hover, 
+    .btn:active {
+        color: #2b238a;
+        background-color: #f3e885;
     }
 }
