@@ -48,8 +48,7 @@ a {
     text-decoration: underline dotted; 
 }
 
-/* a:hover,  */
-a:focus-visible,
+a:hover, 
 a:active {
     color: #d4b44c;
 }
@@ -80,8 +79,7 @@ a:active {
     background: whitesmoke;
 }
 
-/* .btn:hover,  */
-.btn:focus-visible,
+.btn:hover, 
 .btn:active {
     color: #2b238a;
     background-color: #f3e885;
@@ -215,7 +213,7 @@ ul {
         font-size: 1.125rem;
     }
 
-    a:hover, 
+    /* a:hover, 
     a:active {
         color: #d4b44c;
     }
@@ -224,5 +222,5 @@ ul {
     .btn:active {
         color: #2b238a;
         background-color: #f3e885;
-    }
+    } */
 }
