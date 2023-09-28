@@ -49,7 +49,7 @@ a {
 }
 
 /* a:hover,  */
-a:focus,
+a:focus-visible,
 a:active {
     color: #d4b44c;
 }
@@ -81,7 +81,7 @@ a:active {
 }
 
 /* .btn:hover,  */
-.btn:focus,
+.btn:focus-visible,
 .btn:active {
     color: #2b238a;
     background-color: #f3e885;
